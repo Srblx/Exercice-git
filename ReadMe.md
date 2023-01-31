@@ -1,18 +1,18 @@
-<!-- !Les frameworks JavaScript -->
+<!-- ? Les frameworks JavaScript -->
 
 Un framework (ou infrastructure logicielle en français ) désigne en programmation informatique un ensemble d'outils et de composants logiciels à la base d'un logiciel ou d'une application. C'est le framework, encore appelé structure logicielle, canevas ou socle d'applications en français, qui établit les fondations d'un logiciel ou son squelette applicatif. Tous les développeurs qui l'utilisent peuvent l'enrichir pour en améliorer l'utilisation.
 
 L'objectif du framework est de simplifier et d'uniformiser le travail des développeurs. Il fonctionne comme un cadre ou un patron, mais son maniement suppose d'avoir déjà un profil expérimenté. En général, une infrastructure logicielle est associée spécifiquement à un language de script ou de programmation. Par exemple, Hibernate est un framework pour JavaScript et Django pour Python.
 
-<!-- !En resumé :  -->
+<!-- ? En resumé :  -->
 
 Un framework est un cadre de travail qui permetde créer des application web et mobiles, un framework propose une bibliothèque de fonctionnalités dans laquelle les developpeurs vont pouvoir piocher en fonction des besoins, l'utilisation de framework permet de gagner du temps et aujourd'hui il s'agit d'un standard dans la construition d'un projet web. C'est pour cette raison qu'on a pour habitude de les comparer a une boite a outils.
 
-<!-- ! LES FRAMEWORK FRONT END  -->
+<!-- ? LES FRAMEWORK FRONT END  -->
 
 Ces frameworks servent a definir ce que va voir le visiteur lorsque qu'il va arrive sur la site. En exemple de frameworks front end on peut retrouver Vue.js, react, angular et bien d'autre
 
-<!-- ! CHOISIR UN FRAMEWORK JAVASCRIPT -->
+<!-- ? CHOISIR UN FRAMEWORK JAVASCRIPT -->
 
 À noter que la performance entre les différents frameworks ne diffère pas réellement et est inhérente à l’utilisation qui en est faite. Ce n’est donc pas un critère de différenciation.
 
@@ -57,12 +57,14 @@ Nécessite le téléchargement de la bibliothèque entière et des Polyfills.
 
 <!-- ! *** Le Shadow DOM est une technologie du navigateur conçue principalement pour limiter la portée des variables et du CSS dans les Web Components. Le DOM virtuel est un concept implémenté par les bibliothèques en JavaScript en plus des API des navigateurs. -->
 
+<!--? Erreurs de dépendance : -->
+
+il est possible de rencontrer des erreurs de dépendance qui indiquent des dépendances de versions différentes même dans les mêmes éléments, même si vous téléchargez les éléments Polymer.js comme recommandé.
+Il a déjà été établi que Ploymer.js est actuellement en cours de développement en ce qui concerne les problèmes de l’élément, mais il peut rendre le développement difficile, ce qui pourrait décourager les développeurs de travailler avec lui.
+
 En conclusion : Sur papier, PolymerJS offre une perspective attirante mais est en avance sur son temps.
-Il requiert des fonctionnalités de composants avancées de navigateur qui sont encore en phase de normalisation par le W3C et qui n'ont pas encore été implémentées dans les navigateurs.
+Mais je pense qu'il requiert des fonctionnalités de composants avancées de navigateur qui sont encore en phase de normalisation par le W3C et qui n'ont pas encore été implémentées dans les navigateurs.
 Exemples incluent shadow dom, modèle éléments, éléments personnalisés, importations HTML, observeurs de mutation, modèle orienté vues, événements de pointeur, et animations web. Bien que ce soient de bonnes technologies, elles ne sont pas actuellement disponibles sur les navigateurs modernes.
 Polymer se base sur une stratégie pour que les développeurs front-end utilisent ces technologies qui seront bientôt normalisées par le W3C dès leur disponibilité sur les navigateurs.
 Mais pour combler cette lacune, Polymer suggère l’utilisation de polyfills (code JavaScript téléchargeable qui fournit des fonctionnalités qui ne sont pas encore intégrées aux navigateurs) ou encore X-Tag (Mozilla).
 Ces polyfills sont conçus de telle sorte qu’ils peuvent être facilement remplacés lorsque les navigateurs natifs introduisent ces technologies.
-
-Erreurs de dépendance et versions
-Vous rencontrerez des erreurs de dépendance qui indiquent des dépendances de versions différentes même dans les mêmes éléments, même si vous téléchargez les éléments Polymer.js comme recommandé. Il a déjà été établi que Ploymer.js est actuellement en cours de développement en ce qui concerne les problèmes de l’élément, mais il peut rendre le développement difficile, ce qui pourrait décourager les développeurs de travailler avec lui.
