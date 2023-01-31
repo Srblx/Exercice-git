@@ -1,0 +1,16 @@
+Gatsby JS :
+
+Gatsby est un framework open-source pour développer des sites web rapides et modernes. Il utilise ReactJS et GraphQL pour construire des pages statiques pré-générées pour une meilleure performance et une expérience utilisateur fluide. Il offre également un large éventail de plugins et de sources de données pour intégrer facilement des contenus provenant de sources telles que CMS, APIs, fichiers locaux, etc. Gatsby est particulièrement adapté aux sites à fort trafic, aux blogs et aux portfolios.
+
+Au niveau des avantages, Gatsby utilise des techniques de pré-génération de pages pour une expérience utilisateur rapide et fluide.
+Il offre un grand choix de plugins pour intégrer facilement des données provenant de différentes sources, et utilise ReactJS, un framework populaire, et GraphQL, une query language pour les APIs, pour une expérience de développement simple et efficace.
+Gatsby a une solide communauté de développeurs et une documentation détaillée pour aider les utilisateurs.
+
+Il y a aussi des désavantages à son utilisation en effet,  Gatsby utilise certaines technologies avancées telles que GraphQL, donc un certain temps d'apprentissage peut être nécessaire.
+Bien que Gatsby soit open-source, certains coûts peuvent être associés au développement et à la maintenance d'un site web construit avec Gatsby.
+Gatsby se concentre principalement sur les sites web statiques, il peut donc y avoir des limitations pour les sites web nécessitant des interactions en temps réel telles que les formulaires en ligne.
+Pour les sites web plus complexes avec de nombreuses pages et fonctionnalités, Gatsby peut être plus difficile à gérer et à maintenir que d'autres frameworks.
+
+Je trouve que les désavantages du framework ne posent pas vraiment problème car si on le maitrise bien on peut construire des applications web plus complexes.
+Mais on ne peut pas l'utiliser pour effectuer certaines tâches. Les sites statiques peuvent être une bonne alternative pour certains telles que les sites de documentation et ne nécessitent pas de calculs côté serveur.
+Il sera donc plus sécurisé et ne coûtera pas beaucoup à produire.1
