@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/webcomponentsjs/2.4.3/webcomponents-loader.js"></script>
+    <link
+      rel="import"
+      href="https://cdn.jsdelivr.net/npm/@polymer/polymer@3.0.0/polymer-element.html"
+    />
+    <style is="custom-style">
+      .grid-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: auto;
+        grid-gap: 10px;
+        padding: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Titre</h1>
+    <nav>
+      <a href="#">Lien 1</a>
+      <a href="#">Lien 2</a>
+      <a href="#">Lien 3</a>
+    </nav>
+    <div class="grid-container">
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
+        fringilla consectetur metus, at fringilla nisi commodo ac. Nulla
+        ullamcorper nibh id massa rhoncus, vel vestibulum dui euismod.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
+        fringilla consectetur metus, at fringilla nisi commodo ac. Nulla
+        ullamcorper nibh id massa rhoncus, vel vestibulum dui euismod.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
+        fringilla consectetur metus, at fringilla nisi commodo ac. Nulla
+        ullamcorper nibh id massa rhoncus, vel vestibulum dui euismod.
+      </p>
+    </div>
+  </body>
+</html>

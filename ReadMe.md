@@ -62,7 +62,9 @@ Nécessite le téléchargement de la bibliothèque entière et des Polyfills.
 il est possible de rencontrer des erreurs de dépendance qui indiquent des dépendances de versions différentes même dans les mêmes éléments, même si vous téléchargez les éléments Polymer.js comme recommandé.
 Il a déjà été établi que Ploymer.js est actuellement en cours de développement en ce qui concerne les problèmes de l’élément, mais il peut rendre le développement difficile, ce qui pourrait décourager les développeurs de travailler avec lui.
 
-En conclusion : Sur papier, PolymerJS offre une perspective attirante mais est en avance sur son temps.
+<!-- ? En conclusion :-->
+
+Sur papier, PolymerJS offre une perspective attirante mais est en avance sur son temps.
 Mais je pense qu'il requiert des fonctionnalités de composants avancées de navigateur qui sont encore en phase de normalisation par le W3C et qui n'ont pas encore été implémentées dans les navigateurs.
 Exemples incluent shadow dom, modèle éléments, éléments personnalisés, importations HTML, observeurs de mutation, modèle orienté vues, événements de pointeur, et animations web. Bien que ce soient de bonnes technologies, elles ne sont pas actuellement disponibles sur les navigateurs modernes.
 Polymer se base sur une stratégie pour que les développeurs front-end utilisent ces technologies qui seront bientôt normalisées par le W3C dès leur disponibilité sur les navigateurs.
