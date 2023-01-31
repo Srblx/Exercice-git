@@ -1,0 +1,73 @@
+INTRODUCTION :
+Angular est un framework pour application web, attention à ne pas confondre avec une 
+application mobile,une application web se lis obligatoirement par un navigateur contrairement à 
+une application mobile qui elle est indépendante . Angular est utilisé 
+
+
+
+
+PRESENTATION, QU'EST-CE QU'ANGULAR  ?
+Angular est un framework JavaScript open-source écrit en TypeScript . Google le maintient et 
+son objectif principal est de développer des applications d'une seule page. En tant que 
+framework, Angular présente des avantages évidents tout en fournissant une structure standard 
+avec laquelle les développeurs peuvent travailler. Il permet aux utilisateurs de créer de 
+grandes applications de manière maintenable. 
+
+
+
+LES CARACTERISTIQUES D'ANGULAR :
+1. Modèle d'objet de document (DOM) : 
+DOM (Document Object Model) traite un document XML ou HTML comme une arborescence dans laquelle 
+chaque nœud représente une partie du document.
+
+
+
+2. Typescript : 
+TypeScript définit un ensemble de types pour JavaScript, ce qui aide les utilisateurs à 
+écrire du code JavaScript plus facile à comprendre.
+
+
+
+3. Liaison de données :
+est un processus qui permet aux utilisateurs de manipuler des éléments de page Web via un 
+navigateur Web .
+
+
+
+4. Tests :
+Angular utilise le framework de test Jasmine. Le framework Jasmine fournit de multiples 
+fonctionnalités pour écrire différents types de cas de test. 
+
+
+
+L'ARCHITECTURE D'ANGULAR :
+Angular est un framework modèle-vue-contrôleur (MVC) à part entière . Il fournit des indications
+claires sur la manière dont l'application doit être structurée et offre un flux de données 
+bidirectionnel tout en fournissant un véritable DOM. 
+
+
+
+
+COMPRENDRE ANGULAR :
+Pour comprendre les capacités du framework Angular, vous devez en savoir plus sur les éléments suivants :
+
+Composants
+Modèles
+Directives
+Injection de dépendance
+
+
+
+PRESENTATION DES COMPOSANTS D'ANGULAR : 
+Les composants sont le principal élément de base des applications angulaires. Chaque composant 
+est composé de :
+
+Un modèle HTML qui déclare ce qui s'affiche sur la page
+Une classe TypeScript qui définit le comportement
+Un sélecteur CSS qui définit comment le composant est utilisé dans un modèle
+Facultativement, les styles CSS appliqués au modèle
+
+
+
+
+
